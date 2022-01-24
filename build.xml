@@ -26,7 +26,7 @@
     </target>
     <!-- END -->
 
-    <target name="-pre-jar">
+    <target name="jar javadoc">
         <echo message="Oui je marche"/>
     </target>
 
