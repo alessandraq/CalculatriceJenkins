@@ -26,4 +26,8 @@
     </target>
     <!-- END -->
 
+    <target name="-pre-jar">
+        <echo message="Oui je marche"/>
+    </target>
+
 </project>
